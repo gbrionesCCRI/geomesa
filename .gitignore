@@ -21,6 +21,3 @@ geomesa-*.*.*-*
 **/*.db
 .ipynb_checkpoints
 *.ipynb
-*.pyc
-dist
-*.egg-info
